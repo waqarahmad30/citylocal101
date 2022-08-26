@@ -41,7 +41,7 @@ display: none;
   display: none;
 }
 .b-header{
-  background-image: url('/asset/images/header2.jpg');
+  background-image: url('../images/header2.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

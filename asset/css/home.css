@@ -247,7 +247,7 @@ color: orange;
   {
     padding: 10rem 0;
     width:100%;
-    background-image: url('/asset/images/header.png');
+    background-image: url('../images/header.png');
      background-repeat: no-repeat;
      background-size: cover;
   }
